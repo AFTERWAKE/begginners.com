@@ -1,0 +1,13 @@
+{
+  "name": "Begginners",
+  "short_name": "Begginners",
+  "description": "Begginners is a private coop group on the Egg, Inc. discord server",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#3186ab",
+  "icons": [{
+    "src": "favicon.ico",
+    "sizes": "48x48",
+    "type": "image/x-icon"
+  }]
+}
